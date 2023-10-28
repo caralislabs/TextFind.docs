@@ -1,0 +1,2 @@
+# TextFind.docs
+TextFind documentation
